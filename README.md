@@ -1,1 +1,1 @@
-# MC-RDF
+A Python program for performing Monte Carlo simulations. The main script, MC_Simul.py, runs the simulation on a system of 512 argon atoms arranged in a cubic lattice. The Analysis_plots.py script performs standard post-simulation analysis, including calculation of the radial distribution function and statistical evaluation of the potential energy using a block averaging method. It also generates the corresponding analysis plots.
